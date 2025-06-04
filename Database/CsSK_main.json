@@ -1,19 +1,19 @@
 {
   "派蒙": {
-    "Country": "Other",
+    "Country": "기타",
     "HID": "000000000",
     "exegesis": "1.{派蒙}, {蒎蒙}, {哌蒙}, {鎃蒙}"
   },
   "蒎蒙": {
-    "Country": "Other",
+    "Country": "기타",
     "HID": "000000000"
   },
   "哌蒙": {
-    "Country": "Other",
+    "Country": "기타",
     "HID": "000000000"
   },
   "鎃蒙": {
-    "Country": "Other",
+    "Country": "기타",
     "HID": "000000000"
   },
   "安柏": {
@@ -389,20 +389,20 @@
     "HID": "000000032"
   },
   "艾洛伊": {
-    "Country": "Other",
+    "Country": "기타",
     "HID": "000000033",
     "exegesis": "34.{艾洛伊}, {埃洛伊}, {埃落伊}, {艾落伊}"
   },
   "埃洛伊": {
-    "Country": "Other",
+    "Country": "기타",
     "HID": "000000033"
   },
   "埃落伊": {
-    "Country": "Other",
+    "Country": "기타",
     "HID": "000000033"
   },
   "艾落伊": {
-    "Country": "Other",
+    "Country": "기타",
     "HID": "000000033"
   },
   "枫原万叶": {
@@ -1225,12 +1225,12 @@
     "HID": "000000100"
   },
   "空": {
-    "Country": "Other",
+    "Country": "기타",
     "HID": "999999998",
     "exegesis": "999999999.{空}"
   },
   "莹": {
-    "Country": "Other",
+    "Country": "기타",
     "HID": "999999999",
     "exegesis": "999999999.{莹}"
   }
