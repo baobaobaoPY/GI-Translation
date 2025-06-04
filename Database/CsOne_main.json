@@ -1,0 +1,1237 @@
+{
+  "派蒙": {
+    "Country": "Other",
+    "HID": "000000000",
+    "exegesis": "1.{派蒙}, {蒎蒙}, {哌蒙}, {鎃蒙}"
+  },
+  "蒎蒙": {
+    "Country": "Other",
+    "HID": "000000000"
+  },
+  "哌蒙": {
+    "Country": "Other",
+    "HID": "000000000"
+  },
+  "鎃蒙": {
+    "Country": "Other",
+    "HID": "000000000"
+  },
+  "安柏": {
+    "Country": "Mondstadt",
+    "HID": "000000001",
+    "exegesis": "2.{安柏}, {安博}, {安伯}, {安泊}, {安波}"
+  },
+  "安博": {
+    "Country": "Mondstadt",
+    "HID": "000000001"
+  },
+  "安伯": {
+    "Country": "Mondstadt",
+    "HID": "000000001"
+  },
+  "安泊": {
+    "Country": "Mondstadt",
+    "HID": "000000001"
+  },
+  "安波": {
+    "Country": "Mondstadt",
+    "HID": "000000001"
+  },
+  "凯亚": {
+    "Country": "Mondstadt",
+    "HID": "000000002",
+    "exegesis": "3.{凯亚}, {凯雅}, {铠亚}, {铠雅}"
+  },
+  "凯雅": {
+    "Country": "Mondstadt",
+    "HID": "000000002"
+  },
+  "铠亚": {
+    "Country": "Mondstadt",
+    "HID": "000000002"
+  },
+  "铠雅": {
+    "Country": "Mondstadt",
+    "HID": "000000002"
+  },
+  "丽莎": {
+    "Country": "Mondstadt",
+    "HID": "000000003",
+    "exegesis": "4.{丽莎}, {丽沙}, {莉莎}, {莉沙}"
+  },
+  "丽沙": {
+    "Country": "Mondstadt",
+    "HID": "000000003"
+  },
+  "莉莎": {
+    "Country": "Mondstadt",
+    "HID": "000000003"
+  },
+  "莉沙": {
+    "Country": "Mondstadt",
+    "HID": "000000003"
+  },
+  "芭芭拉": {
+    "Country": "Mondstadt",
+    "HID": "000000004",
+    "exegesis": "5.{芭芭拉}, {芭芭啦}, {巴巴拉}, {巴巴啦}"
+  },
+  "芭芭啦": {
+    "Country": "Mondstadt",
+    "HID": "000000004"
+  },
+  "巴巴拉": {
+    "Country": "Mondstadt",
+    "HID": "000000004"
+  },
+  "巴巴啦": {
+    "Country": "Mondstadt",
+    "HID": "000000004"
+  },
+  "雷泽": {
+    "Country": "Mondstadt",
+    "HID": "000000005",
+    "exegesis": "6.{雷泽}, {狼崽}, {小狼崽}, {蒙德狼崽}, {蒙德小狼崽}"
+  },
+  "狼崽": {
+    "Country": "Mondstadt",
+    "HID": "000000005"
+  },
+  "小狼崽": {
+    "Country": "Mondstadt",
+    "HID": "000000005"
+  },
+  "蒙德狼崽": {
+    "Country": "Mondstadt",
+    "HID": "000000005"
+  },
+  "蒙德小狼崽": {
+    "Country": "Mondstadt",
+    "HID": "000000005"
+  },
+  "香菱": {
+    "Country": "Liyue",
+    "HID": "000000006",
+    "exegesis": "7.{香菱}, {锅巴}"
+  },
+  "锅巴": {
+    "Country": "Liyue",
+    "HID": "000000006"
+  },
+  "北斗": {
+    "Country": "Liyue",
+    "HID": "000000007",
+    "exegesis": "8.{北斗}"
+  },
+  "行秋": {
+    "Country": "Liyue",
+    "HID": "000000008",
+    "exegesis": "9.{行秋}"
+  },
+  "凝光": {
+    "Country": "Liyue",
+    "HID": "000000009",
+    "exegesis": "10.{凝光}"
+  },
+  "菲谢尔": {
+    "Country": "Mondstadt",
+    "HID": "000000010",
+    "exegesis": "11.{菲谢尔}, {小艾咪}, {奥兹}, {皇女}"
+  },
+  "小艾咪": {
+    "Country": "Mondstadt",
+    "HID": "000000010"
+  },
+  "奥兹": {
+    "Country": "Mondstadt",
+    "HID": "000000010"
+  },
+  "皇女": {
+    "Country": "Mondstadt",
+    "HID": "000000010"
+  },
+  "班尼特": {
+    "Country": "Mondstadt",
+    "HID": "000000011",
+    "exegesis": "12.{班尼特}, {倒霉蛋}, {冒险倒霉家}, {蒙德倒霉蛋}"
+  },
+  "倒霉蛋": {
+    "Country": "Mondstadt",
+    "HID": "000000011"
+  },
+  "冒险倒霉家": {
+    "Country": "Mondstadt",
+    "HID": "000000011"
+  },
+  "蒙德倒霉蛋": {
+    "Country": "Mondstadt",
+    "HID": "000000011"
+  },
+  "诺艾尔": {
+    "Country": "Mondstadt",
+    "HID": "000000012",
+    "exegesis": "13.{诺艾尔}, {女仆}"
+  },
+  "女仆": {
+    "Country": "Mondstadt",
+    "HID": "000000012"
+  },
+  "重云": {
+    "Country": "Liyue",
+    "HID": "000000013",
+    "exegesis": "14.{重云}, {纯阳之体}, {璃月纯阳}"
+  },
+  "纯阳之体": {
+    "Country": "Liyue",
+    "HID": "000000013"
+  },
+  "璃月纯阳": {
+    "Country": "Liyue",
+    "HID": "000000013"
+  },
+  "砂糖": {
+    "Country": "Mondstadt",
+    "HID": "000000014",
+    "exegesis": "15.{砂糖}, {小万叶}"
+  },
+  "小万叶": {
+    "Country": "Mondstadt",
+    "HID": "000000014"
+  },
+  "琴": {
+    "Country": "Mondstadt",
+    "HID": "000000015",
+    "exegesis": "16.{琴}, {琴团长}"
+  },
+  "琴团长": {
+    "Country": "Mondstadt",
+    "HID": "000000015"
+  },
+  "迪卢克": {
+    "Country": "Mondstadt",
+    "HID": "000000016",
+    "exegesis": "17.{迪卢克}, {暗夜英雄}, {迪姥爷}, {卢姥爷}"
+  },
+  "暗夜英雄": {
+    "Country": "Mondstadt",
+    "HID": "000000016"
+  },
+  "迪姥爷": {
+    "Country": "Mondstadt",
+    "HID": "000000016"
+  },
+  "卢姥爷": {
+    "Country": "Mondstadt",
+    "HID": "000000016"
+  },
+  "七七": {
+    "Country": "Liyue",
+    "HID": "000000017",
+    "exegesis": "18.{七七}, {璃月僵尸}"
+  },
+  "璃月僵尸": {
+    "Country": "Liyue",
+    "HID": "000000017"
+  },
+  "莫娜": {
+    "Country": "Mondstadt",
+    "HID": "000000018",
+    "exegesis": "19.{莫娜}, {阿斯托洛吉斯·莫娜·梅基斯图斯}, {阿斯托洛吉斯莫娜梅基斯图斯}"
+  },
+  "阿斯托洛吉斯·莫娜·梅基斯图斯": {
+    "Country": "Mondstadt",
+    "HID": "000000018"
+  },
+  "阿斯托洛吉斯莫娜梅基斯图斯": {
+    "Country": "Mondstadt",
+    "HID": "000000018"
+  },
+  "刻晴": {
+    "Country": "Liyue",
+    "HID": "000000019",
+    "exegesis": "20.{刻晴}, {璃月飞雷神}"
+  },
+  "璃月飞雷神": {
+    "Country": "Liyue",
+    "HID": "000000019"
+  },
+  "温迪": {
+    "Country": "Mondstadt",
+    "HID": "000000020",
+    "exegesis": "21.{温迪}, {风神}, {蒙德酒鬼}, {卖唱的}, {吟游诗人}, {巴巴托斯}"
+  },
+  "风神": {
+    "Country": "Mondstadt",
+    "HID": "000000020"
+  },
+  "蒙德酒鬼": {
+    "Country": "Mondstadt",
+    "HID": "000000020"
+  },
+  "卖唱的": {
+    "Country": "Mondstadt",
+    "HID": "000000020"
+  },
+  "吟游诗人": {
+    "Country": "Mondstadt",
+    "HID": "000000020"
+  },
+  "巴巴托斯": {
+    "Country": "Mondstadt",
+    "HID": "000000020"
+  },
+  "可莉": {
+    "Country": "Mondstadt",
+    "HID": "000000021",
+    "exegesis": "22.{可莉}, {可利}"
+  },
+  "可利": {
+    "Country": "Mondstadt",
+    "HID": "000000021"
+  },
+  "迪奥娜": {
+    "Country": "Mondstadt",
+    "HID": "000000022",
+    "exegesis": "23.{迪奥娜}"
+  },
+  "达达利亚": {
+    "Country": "Liyue",
+    "HID": "000000023",
+    "exegesis": "24.{达达利亚}, {公子}"
+  },
+  "公子": {
+    "Country": "Liyue",
+    "HID": "000000023"
+  },
+  "辛焱": {
+    "Country": "Liyue",
+    "HID": "000000024",
+    "exegesis": "25.{辛焱}"
+  },
+  "钟离": {
+    "Country": "Liyue",
+    "HID": "000000025",
+    "exegesis": "26.{钟离}, {钟老爷子}, {老爷子}, {岩王爷}, {岩神}, {摩拉克斯}"
+  },
+  "钟老爷子": {
+    "Country": "Liyue",
+    "HID": "000000025"
+  },
+  "老爷子": {
+    "Country": "Liyue",
+    "HID": "000000025"
+  },
+  "岩王爷": {
+    "Country": "Liyue",
+    "HID": "000000025"
+  },
+  "岩神": {
+    "Country": "Liyue",
+    "HID": "000000025"
+  },
+  "摩拉克斯": {
+    "Country": "Liyue",
+    "HID": "000000025"
+  },
+  "阿贝多": {
+    "Country": "Mondstadt",
+    "HID": "000000026",
+    "exegesis": "27.{阿贝多}"
+  },
+  "甘雨": {
+    "Country": "Liyue",
+    "HID": "000000027",
+    "exegesis": "28.{甘雨}, {王小美}, {椰羊}"
+  },
+  "王小美": {
+    "Country": "Liyue",
+    "HID": "000000027"
+  },
+  "椰羊": {
+    "Country": "Liyue",
+    "HID": "000000027"
+  },
+  "魈": {
+    "Country": "Liyue",
+    "HID": "000000028",
+    "exegesis": "29.{魈}"
+  },
+  "胡桃": {
+    "Country": "Liyue",
+    "HID": "000000029",
+    "exegesis": "30.{胡桃}, {胡堂主}"
+  },
+  "胡堂主": {
+    "Country": "Liyue",
+    "HID": "000000029"
+  },
+  "罗莎莉亚": {
+    "Country": "Mondstadt",
+    "HID": "000000030",
+    "exegesis": "31.{罗莎莉亚}, {罗沙利亚}"
+  },
+  "罗沙利亚": {
+    "Country": "Mondstadt",
+    "HID": "000000030"
+  },
+  "烟绯": {
+    "Country": "Liyue",
+    "HID": "000000031",
+    "exegesis": "32.{烟绯}"
+  },
+  "优菈": {
+    "Country": "Mondstadt",
+    "HID": "000000032",
+    "exegesis": "33.{优菈}, {优拉}"
+  },
+  "优拉": {
+    "Country": "Mondstadt",
+    "HID": "000000032"
+  },
+  "艾洛伊": {
+    "Country": "Other",
+    "HID": "000000033",
+    "exegesis": "34.{艾洛伊}, {埃洛伊}, {埃落伊}, {艾落伊}"
+  },
+  "埃洛伊": {
+    "Country": "Other",
+    "HID": "000000033"
+  },
+  "埃落伊": {
+    "Country": "Other",
+    "HID": "000000033"
+  },
+  "艾落伊": {
+    "Country": "Other",
+    "HID": "000000033"
+  },
+  "枫原万叶": {
+    "Country": "Inazuma",
+    "HID": "000000034",
+    "exegesis": "35.{枫原万叶}, {万叶}"
+  },
+  "万叶": {
+    "Country": "Inazuma",
+    "HID": "000000034"
+  },
+  "神里绫华": {
+    "Country": "Inazuma",
+    "HID": "000000035",
+    "exegesis": "36.{神里绫华}, {神里凌华}, {绫华}, {凌华}"
+  },
+  "神里凌华": {
+    "Country": "Inazuma",
+    "HID": "000000035"
+  },
+  "绫华": {
+    "Country": "Inazuma",
+    "HID": "000000035"
+  },
+  "凌华": {
+    "Country": "Inazuma",
+    "HID": "000000035"
+  },
+  "早柚": {
+    "Country": "Inazuma",
+    "HID": "000000036",
+    "exegesis": "37.{早柚}, {旱抽}"
+  },
+  "旱抽": {
+    "Country": "Inazuma",
+    "HID": "000000036"
+  },
+  "宵宫": {
+    "Country": "Inazuma",
+    "HID": "000000037",
+    "exegesis": "38.{宵宫}"
+  },
+  "九条裟罗": {
+    "Country": "Inazuma",
+    "HID": "000000038",
+    "exegesis": "39.{九条裟罗}, {九条}, {天狗}"
+  },
+  "九条": {
+    "Country": "Inazuma",
+    "HID": "000000038"
+  },
+  "天狗": {
+    "Country": "Inazuma",
+    "HID": "000000038"
+  },
+  "雷电将军": {
+    "Country": "Inazuma",
+    "HID": "000000039",
+    "exegesis": "40.{雷电将军}, {影}, {雷神}, {巴尔泽布}, {将军大人}, {将军}, {雷电影}"
+  },
+  "影": {
+    "Country": "Inazuma",
+    "HID": "000000039"
+  },
+  "雷神": {
+    "Country": "Inazuma",
+    "HID": "000000039"
+  },
+  "巴尔泽布": {
+    "Country": "Inazuma",
+    "HID": "000000039"
+  },
+  "将军大人": {
+    "Country": "Inazuma",
+    "HID": "000000039"
+  },
+  "将军": {
+    "Country": "Inazuma",
+    "HID": "000000039"
+  },
+  "雷电影": {
+    "Country": "Inazuma",
+    "HID": "000000039"
+  },
+  "珊瑚宫心海": {
+    "Country": "Inazuma",
+    "HID": "000000040",
+    "exegesis": "41.{珊瑚宫心海}, {心海}"
+  },
+  "心海": {
+    "Country": "Inazuma",
+    "HID": "000000040"
+  },
+  "托马": {
+    "Country": "Inazuma",
+    "HID": "000000041",
+    "exegesis": "42.{托马}"
+  },
+  "五郎": {
+    "Country": "Inazuma",
+    "HID": "000000042",
+    "exegesis": "43.{五郎}"
+  },
+  "荒泷一斗": {
+    "Country": "Inazuma",
+    "HID": "000000043",
+    "exegesis": "44.{荒泷一斗}, {一斗}"
+  },
+  "一斗": {
+    "Country": "Inazuma",
+    "HID": "000000043"
+  },
+  "云堇": {
+    "Country": "Liyue",
+    "HID": "000000044",
+    "exegesis": "45.{云堇}"
+  },
+  "申鹤": {
+    "Country": "Liyue",
+    "HID": "000000045",
+    "exegesis": "46.{申鹤}"
+  },
+  "八重神子": {
+    "Country": "Inazuma",
+    "HID": "000000046",
+    "exegesis": "47.{八重神子}, {八重}, {神子}, {八只虫子}"
+  },
+  "八重": {
+    "Country": "Inazuma",
+    "HID": "000000046"
+  },
+  "神子": {
+    "Country": "Inazuma",
+    "HID": "000000046"
+  },
+  "八只虫子": {
+    "Country": "Inazuma",
+    "HID": "000000046"
+  },
+  "神里绫人": {
+    "Country": "Inazuma",
+    "HID": "000000047",
+    "exegesis": "48.{神里绫人}, {神里凌人}, {绫人}, {凌人}"
+  },
+  "神里凌人": {
+    "Country": "Inazuma",
+    "HID": "000000047"
+  },
+  "绫人": {
+    "Country": "Inazuma",
+    "HID": "000000047"
+  },
+  "凌人": {
+    "Country": "Inazuma",
+    "HID": "000000047"
+  },
+  "夜兰": {
+    "Country": "Liyue",
+    "HID": "000000048",
+    "exegesis": "49.{夜兰}"
+  },
+  "久岐忍": {
+    "Country": "Inazuma",
+    "HID": "000000049",
+    "exegesis": "50.{久岐忍}"
+  },
+  "鹿野院平藏": {
+    "Country": "Inazuma",
+    "HID": "000000050",
+    "exegesis": "51.{鹿野院平藏}, {小鹿}"
+  },
+  "小鹿": {
+    "Country": "Inazuma",
+    "HID": "000000050"
+  },
+  "柯莱": {
+    "Country": "Sumeru",
+    "HID": "000000051",
+    "exegesis": "52.{柯莱}, {科莱}"
+  },
+  "科莱": {
+    "Country": "Sumeru",
+    "HID": "000000051"
+  },
+  "提纳里": {
+    "Country": "Sumeru",
+    "HID": "000000052",
+    "exegesis": "53.{提纳里}"
+  },
+  "多莉": {
+    "Country": "Sumeru",
+    "HID": "000000053",
+    "exegesis": "54.{多莉}, {多利}, {多立}"
+  },
+  "多利": {
+    "Country": "Sumeru",
+    "HID": "000000053"
+  },
+  "多立": {
+    "Country": "Sumeru",
+    "HID": "000000053"
+  },
+  "坎蒂丝": {
+    "Country": "Sumeru",
+    "HID": "000000054",
+    "exegesis": "55.{坎蒂丝}, {坎迪丝}, {坎蒂斯}, {坎迪斯}"
+  },
+  "坎迪丝": {
+    "Country": "Sumeru",
+    "HID": "000000054"
+  },
+  "坎蒂斯": {
+    "Country": "Sumeru",
+    "HID": "000000054"
+  },
+  "坎迪斯": {
+    "Country": "Sumeru",
+    "HID": "000000054"
+  },
+  "赛诺": {
+    "Country": "Sumeru",
+    "HID": "000000055",
+    "exegesis": "56.{赛诺}, {大风机关}, {冷笑话大王}"
+  },
+  "大风机关": {
+    "Country": "Sumeru",
+    "HID": "000000055"
+  },
+  "冷笑话大王": {
+    "Country": "Sumeru",
+    "HID": "000000055"
+  },
+  "妮露": {
+    "Country": "Sumeru",
+    "HID": "000000056",
+    "exegesis": "57.{妮露}, {妮怒}"
+  },
+  "妮怒": {
+    "Country": "Sumeru",
+    "HID": "000000056"
+  },
+  "纳西妲": {
+    "Country": "Sumeru",
+    "HID": "000000057",
+    "exegesis": "58.{纳西妲}, {草神}, {小草神}, {小慈树王}, {羽毛球}, {大慈树王}, {拉希达}, {拉稀达}, {纳西达}, {布耶尔}, {小吉祥草王}, {吉祥草王}, {摩诃善法大吉祥智慧主}"
+  },
+  "草神": {
+    "Country": "Sumeru",
+    "HID": "000000057"
+  },
+  "小草神": {
+    "Country": "Sumeru",
+    "HID": "000000057"
+  },
+  "小慈树王": {
+    "Country": "Sumeru",
+    "HID": "000000057"
+  },
+  "羽毛球": {
+    "Country": "Sumeru",
+    "HID": "000000057"
+  },
+  "大慈树王": {
+    "Country": "Sumeru",
+    "HID": "000000057"
+  },
+  "拉希达": {
+    "Country": "Sumeru",
+    "HID": "000000057"
+  },
+  "拉稀达": {
+    "Country": "Sumeru",
+    "HID": "000000057"
+  },
+  "纳西达": {
+    "Country": "Sumeru",
+    "HID": "000000057"
+  },
+  "布耶尔": {
+    "Country": "Sumeru",
+    "HID": "000000057"
+  },
+  "小吉祥草王": {
+    "Country": "Sumeru",
+    "HID": "000000057"
+  },
+  "吉祥草王": {
+    "Country": "Sumeru",
+    "HID": "000000057"
+  },
+  "摩诃善法大吉祥智慧主": {
+    "Country": "Sumeru",
+    "HID": "000000057"
+  },
+  "莱依拉": {
+    "Country": "Sumeru",
+    "HID": "000000058",
+    "exegesis": "59.{莱依拉}, {来依拉}, {莱依菈}, {来依菈}"
+  },
+  "来依拉": {
+    "Country": "Sumeru",
+    "HID": "000000058"
+  },
+  "莱依菈": {
+    "Country": "Sumeru",
+    "HID": "000000058"
+  },
+  "来依菈": {
+    "Country": "Sumeru",
+    "HID": "000000058"
+  },
+  "珐露珊": {
+    "Country": "Sumeru",
+    "HID": "000000059",
+    "exegesis": "60.{珐露珊}, {珐露姗}, {前辈}"
+  },
+  "珐露姗": {
+    "Country": "Sumeru",
+    "HID": "000000059"
+  },
+  "前辈": {
+    "Country": "Sumeru",
+    "HID": "000000059"
+  },
+  "流浪者": {
+    "Country": "Sumeru",
+    "HID": "000000060",
+    "exegesis": "61.{流浪者}, {散兵}, {伞兵}, {三度背叛}, {流浪汉}"
+  },
+  "散兵": {
+    "Country": "Sumeru",
+    "HID": "000000060"
+  },
+  "伞兵": {
+    "Country": "Sumeru",
+    "HID": "000000060"
+  },
+  "三度背叛": {
+    "Country": "Sumeru",
+    "HID": "000000060"
+  },
+  "流浪汉": {
+    "Country": "Sumeru",
+    "HID": "000000060"
+  },
+  "瑶瑶": {
+    "Country": "Liyue",
+    "HID": "000000061",
+    "exegesis": "62.{瑶瑶}"
+  },
+  "艾尔海森": {
+    "Country": "Sumeru",
+    "HID": "000000062",
+    "exegesis": "63.{艾尔海森}, {海森}"
+  },
+  "海森": {
+    "Country": "Sumeru",
+    "HID": "000000062"
+  },
+  "迪希雅": {
+    "Country": "Sumeru",
+    "HID": "000000063",
+    "exegesis": "64.{迪希雅}"
+  },
+  "米卡": {
+    "Country": "Mondstadt",
+    "HID": "000000064",
+    "exegesis": "65.{米卡}"
+  },
+  "卡维": {
+    "Country": "Sumeru",
+    "HID": "000000065",
+    "exegesis": "66.{卡维}"
+  },
+  "白术": {
+    "Country": "Liyue",
+    "HID": "000000066",
+    "exegesis": "67.{白术}"
+  },
+  "绮良良": {
+    "Country": "Inazuma",
+    "HID": "000000067",
+    "exegesis": "68.{绮良良}"
+  },
+  "琳妮特": {
+    "Country": "Fontaine",
+    "HID": "000000068",
+    "exegesis": "69.{琳妮特}"
+  },
+  "林尼": {
+    "Country": "Fontaine",
+    "HID": "000000069",
+    "exegesis": "70.{林尼}"
+  },
+  "菲米尼": {
+    "Country": "Fontaine",
+    "HID": "000000070",
+    "exegesis": "71.{菲米尼}"
+  },
+  "那维莱特": {
+    "Country": "Fontaine",
+    "HID": "000000071",
+    "exegesis": "72.{那维莱特}, {水龙王}, {龙王}, {水龙}"
+  },
+  "水龙王": {
+    "Country": "Fontaine",
+    "HID": "000000071"
+  },
+  "龙王": {
+    "Country": "Fontaine",
+    "HID": "000000071"
+  },
+  "水龙": {
+    "Country": "Fontaine",
+    "HID": "000000071"
+  },
+  "莱欧斯利": {
+    "Country": "Fontaine",
+    "HID": "000000072",
+    "exegesis": "73.{莱欧斯利}, {典狱长}, {牢大}, {劳大}, {牢达}, {劳达}"
+  },
+  "典狱长": {
+    "Country": "Fontaine",
+    "HID": "000000072"
+  },
+  "牢大": {
+    "Country": "Fontaine",
+    "HID": "000000072"
+  },
+  "劳大": {
+    "Country": "Fontaine",
+    "HID": "000000072"
+  },
+  "牢达": {
+    "Country": "Fontaine",
+    "HID": "000000072"
+  },
+  "劳达": {
+    "Country": "Fontaine",
+    "HID": "000000072"
+  },
+  "夏洛蒂": {
+    "Country": "Fontaine",
+    "HID": "000000073",
+    "exegesis": "74.{夏洛蒂}"
+  },
+  "芙宁娜": {
+    "Country": "Fontaine",
+    "HID": "000000074",
+    "exegesis": "75.{芙宁娜}, {水神}, {芙芙}, {小芙芙}, {芙卡洛斯}"
+  },
+  "水神": {
+    "Country": "Fontaine",
+    "HID": "000000074"
+  },
+  "芙芙": {
+    "Country": "Fontaine",
+    "HID": "000000074"
+  },
+  "小芙芙": {
+    "Country": "Fontaine",
+    "HID": "000000074"
+  },
+  "芙卡洛斯": {
+    "Country": "Fontaine",
+    "HID": "000000074"
+  },
+  "娜维娅": {
+    "Country": "Fontaine",
+    "HID": "000000075",
+    "exegesis": "76.{娜维娅}, {那维娅}, {娜维亚}, {那维亚}, {纳维娅}, {纳维亚}"
+  },
+  "那维娅": {
+    "Country": "Fontaine",
+    "HID": "000000075"
+  },
+  "娜维亚": {
+    "Country": "Fontaine",
+    "HID": "000000075"
+  },
+  "那维亚": {
+    "Country": "Fontaine",
+    "HID": "000000075"
+  },
+  "纳维娅": {
+    "Country": "Fontaine",
+    "HID": "000000075"
+  },
+  "纳维亚": {
+    "Country": "Fontaine",
+    "HID": "000000075"
+  },
+  "夏沃蕾": {
+    "Country": "Fontaine",
+    "HID": "000000076",
+    "exegesis": "77.{夏沃蕾}"
+  },
+  "嘉明": {
+    "Country": "Liyue",
+    "HID": "000000077",
+    "exegesis": "78.{嘉明}"
+  },
+  "闲云": {
+    "Country": "Liyue",
+    "HID": "000000078",
+    "exegesis": "79.{闲云}, {那个女人}"
+  },
+  "那个女人": {
+    "Country": "Liyue",
+    "HID": "000000078"
+  },
+  "千织": {
+    "Country": "Fontaine",
+    "HID": "000000079",
+    "exegesis": "80.{千织}, {千只}"
+  },
+  "千只": {
+    "Country": "Fontaine",
+    "HID": "000000079"
+  },
+  "阿蕾奇诺": {
+    "Country": "Fontaine",
+    "HID": "000000080",
+    "exegesis": "81.{阿蕾奇诺}, {仆人}, {佩露薇莉}, {佩佩}"
+  },
+  "仆人": {
+    "Country": "Fontaine",
+    "HID": "000000080"
+  },
+  "佩露薇莉": {
+    "Country": "Fontaine",
+    "HID": "000000080"
+  },
+  "佩佩": {
+    "Country": "Fontaine",
+    "HID": "000000080"
+  },
+  "赛索斯": {
+    "Country": "Sumeru",
+    "HID": "000000081",
+    "exegesis": "82.{赛索斯}, {塞索斯}"
+  },
+  "塞索斯": {
+    "Country": "Sumeru",
+    "HID": "000000081"
+  },
+  "克洛琳德": {
+    "Country": "Fontaine",
+    "HID": "000000082",
+    "exegesis": "83.{克洛琳德}"
+  },
+  "希格雯": {
+    "Country": "Fontaine",
+    "HID": "000000083",
+    "exegesis": "84.{希格雯}, {美露莘}"
+  },
+  "美露莘": {
+    "Country": "Fontaine",
+    "HID": "000000083"
+  },
+  "艾梅莉埃": {
+    "Country": "Fontaine",
+    "HID": "000000084",
+    "exegesis": "85.{艾梅莉埃}, {艾梅利埃}"
+  },
+  "艾梅利埃": {
+    "Country": "Fontaine",
+    "HID": "000000084"
+  },
+  "卡齐娜": {
+    "Country": "Natalan",
+    "HID": "000000085",
+    "exegesis": "86.{卡齐娜}, {卡齐那}"
+  },
+  "卡齐那": {
+    "Country": "Natalan",
+    "HID": "000000085"
+  },
+  "玛拉妮": {
+    "Country": "Natalan",
+    "HID": "000000086",
+    "exegesis": "87.{玛拉妮}, {马拉妮}"
+  },
+  "马拉妮": {
+    "Country": "Natalan",
+    "HID": "000000086"
+  },
+  "基尼齐": {
+    "Country": "Natalan",
+    "HID": "000000087",
+    "exegesis": "88.{基尼齐}"
+  },
+  "希诺宁": {
+    "Country": "Natalan",
+    "HID": "000000088",
+    "exegesis": "89.{希诺宁}"
+  },
+  "欧洛伦": {
+    "Country": "Natalan",
+    "HID": "000000089",
+    "exegesis": "90.{欧洛伦}, {孙子}, {好大孙}, {哦洛伦}"
+  },
+  "孙子": {
+    "Country": "Natalan",
+    "HID": "000000089"
+  },
+  "好大孙": {
+    "Country": "Natalan",
+    "HID": "000000089"
+  },
+  "哦洛伦": {
+    "Country": "Natalan",
+    "HID": "000000089"
+  },
+  "恰斯卡": {
+    "Country": "Natalan",
+    "HID": "000000090",
+    "exegesis": "91.{恰斯卡}"
+  },
+  "玛薇卡": {
+    "Country": "Natalan",
+    "HID": "000000091",
+    "exegesis": "92.{玛薇卡}, {火神}, {码微卡}"
+  },
+  "火神": {
+    "Country": "Natalan",
+    "HID": "000000091"
+  },
+  "码微卡": {
+    "Country": "Natalan",
+    "HID": "000000091"
+  },
+  "太阳": {
+    "Country": "Natalan",
+    "HID": "000000091"
+  },
+  "西特拉利": {
+    "Country": "Natalan",
+    "HID": "000000092",
+    "exegesis": "93.{西特拉利}, {茜特拉莉}, {茜特菈莉}, {西特菈莉}, {西特拉莉}, {茜特拉丽}, {西特菈丽}, {西特拉丽}, {茜特菈丽}, {奶奶}"
+  },
+  "茜特拉莉": {
+    "Country": "Natalan",
+    "HID": "000000092"
+  },
+  "茜特菈莉": {
+    "Country": "Natalan",
+    "HID": "000000092"
+  },
+  "西特菈莉": {
+    "Country": "Natalan",
+    "HID": "000000092"
+  },
+  "西特拉莉": {
+    "Country": "Natalan",
+    "HID": "000000092"
+  },
+  "茜特拉丽": {
+    "Country": "Natalan",
+    "HID": "000000092"
+  },
+  "西特菈丽": {
+    "Country": "Natalan",
+    "HID": "000000092"
+  },
+  "西特拉丽": {
+    "Country": "Natalan",
+    "HID": "000000092"
+  },
+  "茜特菈丽": {
+    "Country": "Natalan",
+    "HID": "000000092"
+  },
+  "奶奶": {
+    "Country": "Natalan",
+    "HID": "000000092"
+  },
+  "蓝砚": {
+    "Country": "Liyue",
+    "HID": "000000093",
+    "exegesis": "94.{蓝砚}, {蓝颜}, {蓝燕}, {蓝艳}"
+  },
+  "蓝颜": {
+    "Country": "Liyue",
+    "HID": "000000093"
+  },
+  "蓝燕": {
+    "Country": "Liyue",
+    "HID": "000000093"
+  },
+  "蓝艳": {
+    "Country": "Liyue",
+    "HID": "000000093"
+  },
+  "梦见月瑞希": {
+    "Country": "Inazuma",
+    "HID": "000000094",
+    "exegesis": "95.{梦见月瑞希}, {梦见月}, {稻妻魅魔}, {食梦嬷}, {月瑞希}, {食梦貘}"
+  },
+  "梦见月": {
+    "Country": "Inazuma",
+    "HID": "000000094"
+  },
+  "稻妻魅魔": {
+    "Country": "Inazuma",
+    "HID": "000000094"
+  },
+  "食梦嬷": {
+    "Country": "Inazuma",
+    "HID": "000000094"
+  },
+  "月瑞希": {
+    "Country": "Inazuma",
+    "HID": "000000094"
+  },
+  "食梦貘": {
+    "Country": "Inazuma",
+    "HID": "000000094"
+  },
+  "伊安珊": {
+    "Country": "Natalan",
+    "HID": "000000095",
+    "exegesis": "96.{伊安珊}, {伊安删}, {伊安姗}"
+  },
+  "伊安删": {
+    "Country": "Natalan",
+    "HID": "000000095"
+  },
+  "伊安姗": {
+    "Country": "Natalan",
+    "HID": "000000095"
+  },
+  "瓦雷莎": {
+    "Country": "Natalan",
+    "HID": "000000096",
+    "exegesis": "97.{瓦雷莎}, {瓦蕾莎}, {瓦蕾沙}, {瓦雷沙}"
+  },
+  "瓦蕾莎": {
+    "Country": "Natalan",
+    "HID": "000000096"
+  },
+  "瓦蕾沙": {
+    "Country": "Natalan",
+    "HID": "000000096"
+  },
+  "瓦雷沙": {
+    "Country": "Natalan",
+    "HID": "000000096"
+  },
+  "伊法": {
+    "Country": "Natalan",
+    "HID": "000000097",
+    "exegesis": "98.{伊法}, {依法}"
+  },
+  "依法": {
+    "Country": "Natalan",
+    "HID": "000000097"
+  },
+  "爱可菲": {
+    "Country": "Fontaine",
+    "HID": "000000098",
+    "exegesis": "99.{爱可菲}, {艾可菲}, {爱柯菲}, {艾柯菲}, {爱科菲}"
+  },
+  "艾可菲": {
+    "Country": "Fontaine",
+    "HID": "000000098"
+  },
+  "爱柯菲": {
+    "Country": "Fontaine",
+    "HID": "000000098"
+  },
+  "艾柯菲": {
+    "Country": "Fontaine",
+    "HID": "000000098"
+  },
+  "爱科菲": {
+    "Country": "Fontaine",
+    "HID": "000000098"
+  },
+  "丝柯克": {
+    "Country": "Natalan",
+    "HID": "000000099",
+    "exegesis": "100.{丝柯克}, {丝科克}, {斯柯克}, {斯科克}"
+  },
+  "丝科克": {
+    "Country": "Natalan",
+    "HID": "000000099"
+  },
+  "斯柯克": {
+    "Country": "Natalan",
+    "HID": "000000099"
+  },
+  "斯科克": {
+    "Country": "Natalan",
+    "HID": "000000099"
+  },
+  "塔利雅": {
+    "Country": "Mondstadt",
+    "HID": "000000100",
+    "exegesis": "101.{塔利雅}, {塔利娅}, {塔利亚}, {塔莉雅}, {塔莉娅}, {塔莉亚}"
+  },
+  "塔利娅": {
+    "Country": "Mondstadt",
+    "HID": "000000100"
+  },
+  "塔利亚": {
+    "Country": "Mondstadt",
+    "HID": "000000100"
+  },
+  "塔莉雅": {
+    "Country": "Mondstadt",
+    "HID": "000000100"
+  },
+  "塔莉娅": {
+    "Country": "Mondstadt",
+    "HID": "000000100"
+  },
+  "塔莉亚": {
+    "Country": "Mondstadt",
+    "HID": "000000100"
+  },
+  "空": {
+    "Country": "Other",
+    "HID": "999999998",
+    "exegesis": "999999999.{空}"
+  },
+  "莹": {
+    "Country": "Other",
+    "HID": "999999999",
+    "exegesis": "999999999.{莹}"
+  }
+}
